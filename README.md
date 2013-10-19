@@ -12,13 +12,16 @@ La aplicación que he realizado está desarrollada en PHP y es una mini calculad
 
 Para realizar la práctica, lo primero que necesitamos es tener una cuenta en OpenShift. Al haber echo todos los ejercicios esa cuenta ya la tenemos creada, puesto que era el ejercicio 13. A continuación, accedemos a la página de OpenShift, nos registramos y creamos una nueva aplicación de PHP. 
 
-El siguiente paso es clonar el proyecto que acabamos de crear para poder modificarlo y poner nuestra aplicacion. Esto se hace con la siguiente orden:
+El siguiente paso es clonar el proyecto que acabamos de crear para poder modificarlo y poner nuestra aplicacion. En mi caso, es la siguiente orden:
+
  git clone ssh://52614b605004468f93000038@practica1-jcastilloprez.rhcloud.com/~/git/practica1.git/
 
 Una vez bajado el proyecto accedemos a él y en la carpeta php que contiene tenemos que introducir el código de nuestra aplicación. Después solo queda subir los cambios con las siguientes órdenes:
-	git add .
-	git commit -a -m 'Practica 1'
-	git push
+
+ git add .
+ git commit -a -m 'Practica 1'
+ git push
 
 Una vez realizados esos pasos accedemos a la página web de la aplicación y vemos como se ejecuta en ella. En mi caso, es la siguiente URL:
+
  http://practica1-jcastilloprez.rhcloud.com/
