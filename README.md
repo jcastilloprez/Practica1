@@ -18,10 +18,10 @@ El siguiente paso es clonar el proyecto que acabamos de crear para poder modific
 
 Una vez bajado el proyecto accedemos a él y en la carpeta php que contiene tenemos que introducir el código de nuestra aplicación. Después solo queda subir los cambios con las siguientes órdenes:
 
- git add .
- git commit -a -m 'Practica 1'
- git push
+ 	git add .
+ 	git commit -a -m 'Practica 1'
+ 	git push
 
 Una vez realizados esos pasos accedemos a la página web de la aplicación y vemos como se ejecuta en ella. En mi caso, es la siguiente URL:
 
- http://practica1-jcastilloprez.rhcloud.com/
+	http://practica1-jcastilloprez.rhcloud.com/
