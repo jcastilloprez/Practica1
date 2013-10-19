@@ -14,7 +14,7 @@ Para realizar la práctica, lo primero que necesitamos es tener una cuenta en Op
 
 El siguiente paso es clonar el proyecto que acabamos de crear para poder modificarlo y poner nuestra aplicacion. En mi caso, es la siguiente orden:
 
- git clone ssh://52614b605004468f93000038@practica1-jcastilloprez.rhcloud.com/~/git/practica1.git/
+	git clone ssh://52614b605004468f93000038@practica1-jcastilloprez.rhcloud.com/~/git/practica1.git/
 
 Una vez bajado el proyecto accedemos a él y en la carpeta php que contiene tenemos que introducir el código de nuestra aplicación. Después solo queda subir los cambios con las siguientes órdenes:
 
